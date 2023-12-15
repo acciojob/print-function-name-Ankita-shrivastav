@@ -2,4 +2,4 @@
 function functionName(){
 	alert(arguments.callee.name);
 }
-return functionName();
+// return functionName();
